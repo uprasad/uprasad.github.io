@@ -1,3 +1,3 @@
 # Udbhav Prasad
 
-Paper Reading [paper_reading/index.md]
+[Paper Reading](paper_reading/index.md)
